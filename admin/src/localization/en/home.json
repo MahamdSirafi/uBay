@@ -1,0 +1,19 @@
+{
+  "products": "Posted products",
+  "users": "Users",
+  "warehouses": "Warehouses",
+  "soldProducts": "Sold",
+  "employees": "Employees",
+  "loadingPie": " Loading...",
+  "line": {
+    "profits": "company's profit",
+    "y": "SYP",
+    "x": ""
+  },
+  "bar": {
+    "today": "Today",
+    "products": "Posted products",
+    "soldProducts": "Sold products",
+    "comments": "Added comments"
+  }
+}

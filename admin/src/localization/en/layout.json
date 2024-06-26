@@ -1,0 +1,16 @@
+{
+  "navLink": {
+    "home": "Home",
+    "users": "Users",
+    "categories": "Categories",
+    "cities": "Cities",
+    "warehouses": "Warehouses",
+    "employees": "Employees",
+    "billing": "Billing",
+    "reports": "Reports",
+    "admins": "Administrators",
+    "settings": "Settings",
+    "about": "About",
+    "policy": "Policy"
+  }
+}

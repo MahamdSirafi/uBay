@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Name",
+    "email": "Email",
+    "createdAt": "CreatedAt",
+    "available": "Available money",
+    "pending": "Outstanding money"
+  },
+  "profileEdit": {
+    "name": "Name"
+  },
+  "favorites": {
+    "favoriteCategories": "Favorite categories",
+    "favoriteCities": "Favorite cities",
+    "save": "Save",
+    "success": "Preferences saved"
+  },
+  "profileRemove": {
+    "title": "Are You Sure?",
+    "subtitle": "Your account will be deleted, this act is irreversible",
+    "submit": "Yes,Delete my Account",
+    "cancel": "Cancel"
+  },
+  "logout": {
+    "title": "Are You Sure?",
+    "subtitle": "Do you want to log out of your current account?",
+    "submit": "Logout",
+    "cancel": "Cancel"
+  },
+  "settings": {
+    "title": "Settings",
+    "tabs": {
+      "account": "Account and security",
+      "preferences": "Post preferences",
+      "dummy": "privacy"
+    },
+    "profile": {
+      "title": "Profile personly",
+      "profile": "personal information",
+      "profile-edit": "Update personal information"
+    },
+    "account": {
+      "title": "Account",
+      "profile-remove": "Delete Account",
+      "profile-logout": "Logout"
+    },
+    "security": {
+      "title": "Privacy and security",
+      "password-change": "Change password",
+      "password-forgot": "Forgot my password"
+    }
+  }
+}

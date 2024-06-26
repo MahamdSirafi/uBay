@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: "MontserratArabic";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Montserrat-Arabic-Regular.ttf") format("truetype");
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+fieldset {
+  border: none;
+}
